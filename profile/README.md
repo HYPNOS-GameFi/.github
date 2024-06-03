@@ -1,6 +1,8 @@
 
 ## Hypnos: Revolutionizing Game-Fi with Automated Cross-Chain Betting and Investments on Web3. 
 
+### Play Hypnos right now and have fun: [hypnos game-Fi](https://hypnos-gamefi.netlify.app)
+
 **Main Idea:**
  **Hypnos** is an innovative Game-Fi platform that combines automated cross-chain betting and investments within Web3, offering complete abstraction for the user. It is a multichain game that enables investments and airdrops, providing a unique and integrated experience of decentralized finance (DeFi) and entertainment..
 
